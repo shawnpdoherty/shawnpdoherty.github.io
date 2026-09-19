@@ -1,0 +1,12 @@
+title: Shawn P. Doherty
+description: Embedded systems, lab builds, and practical hardware workflows.
+url: "https://shawnpdoherty.github.io"
+baseurl: ""
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+  - about.md
+  - blog/index.md
